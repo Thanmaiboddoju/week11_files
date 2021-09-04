@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<music_collection>
+	<cd>
+		<artist>AR.Rehman</artist>
+		<record_company>Annapurna</record_company>
+		<date>11-02-21</date>
+		<format>CD</format>
+	</cd>
+	<cd>
+		<artist>AR.Rehman</artist>
+		<record_company>Annapurna</record_company>
+		<date>11-02-21</date>
+		<format>Minidisk</format>
+	</cd>
+	<cd>
+		<artist>AR.Rehman</artist>
+		<record_company>Annapurna</record_company>
+		<date>11-02-21</date>
+		<format>DVD</format>
+	</cd>
+</music_collection>

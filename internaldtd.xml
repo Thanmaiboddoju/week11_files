@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE note [
+<!ELEMENT note ((to,(from),body)) >
+<!ELEMENT to (#PCDATA)>
+<!ELEMENT from (#PCDATA) >
+<!ELEMENT body (#PCDATA)>
+]>
+<note>
+	<to>Priyanka</to>
+	<from>Thanmai</from>
+	<from>Thanmai</from>
+	<from>Thanmai</from>
+	<from>Thanmai</from>
+	<body>I love you a lot sissy</body>
+	<conclusion>Thanks for being my sis</conclusion>
+
+	<to>Priyanka</to>
+	<from>Thanmai</from>
+	<from>Thanmai</from>
+	<from>Thanmai</from>
+	<body>I love you a lot sissy</body>
+	<conclusion>Thanks for being my sis</conclusion>
+
+</note>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!ELEMENT markssheet(name,exam_no,sem,branch,subject(subname,marks),totalmarks)>
+<!ELEMENT name(#pcdata)>
+<!ELEMENT exam_no(#pcdata)>
+<!ELEMENT sem(#pcdata)>
+<!ELEMENT branch(#pcdata)>
+<!ELEMENT subname(#pcdata)>
+<!ELEMENT marks(#pcdata)>
+<!ELEMENT totalmarks(#pcdata)>
+

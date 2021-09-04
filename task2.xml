@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE markssheet SYSTEM "external.dtd">
+<markssheet>
+	<name>Priyanka</name>
+	<exam_no>456</exam_no>
+	<sem>sem2</sem>
+	<branch>CSE</branch>
+	<subject>
+		<subname>WT</subname>
+		<marks>99</marks>
+	</subject>
+	<subject>
+		<subname>FLAT</subname>
+		<marks>98</marks>
+	</subject>
+	
+	<subject>
+		<subname>DBMS</subname>
+		<marks>100</marks>
+	</subject>
+	<totalmarks>297/300</totalmarks>
+	<finalmarks>297/300</finalmarks>
+	
+	<name>Thanmai</name>
+	<exam_no>572</exam_no>
+	<sem>sem2</sem>
+	<branch>CSE</branch>
+	<subject>
+		<subname>WT</subname>
+		<marks>99</marks>
+	</subject>
+	<subject>
+		<subname>FLAT</subname>
+		<marks>98</marks>
+	</subject>
+	
+	<subject>
+		<subname>DBMS</subname>
+		<marks>100</marks>
+	</subject>
+	<totalmarks>297/300</totalmarks>
+	<finalmarks>297/300</finalmarks>
+</markssheet>
